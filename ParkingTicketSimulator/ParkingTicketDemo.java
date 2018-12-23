@@ -1,6 +1,4 @@
 /**March 16
-*Michael Brennan
-*Student Number:1645267
 *This is a class called ParkingTicketDemo that driver the classes programs and stores the CarMake, Model, Colour, LicensePlate, MinutesParked, MinutesParked1
 *Fine, MinutesPurchased, GardaName and GardaNumber within the object to print out to the user.
 */
