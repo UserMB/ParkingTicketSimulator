@@ -1,5 +1,9 @@
 # ParkingTicketSimulator
 
+❮img src="images/ParkingTicketSimulator_UML.png" ❯
+Then you can add width and height attributes
+❮img src="images/yParkingTicketSimulator_UML.png" width="100" ❯
+
 ## Author
 
 * **Author-name:** Michael Brennan
