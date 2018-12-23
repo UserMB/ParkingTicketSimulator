@@ -18,7 +18,7 @@
 
 ## Terms of Use
 
-This Project was developed as part of my college assignment and made available to help someone else working on a similar database design project.
+This Project was developed as part of my college assignment and made available to help someone else working on a similar Java project.
 
 ## License
 
