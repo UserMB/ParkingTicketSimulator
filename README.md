@@ -2,6 +2,8 @@
 
 ![alt text](http://url/to/img.png)
 
+![alt text](https://github.com/UserMB/ParkingTicketSimulator/blob/master/Image/ParkingTicketSimulator_UML.png)
+
 ❮img src="image/ParkingTicketSimulator_UML.png" ❯
 Then you can add width and height attributes
 ❮img src="image/ParkingTicketSimulator_UML.png" width="100" ❯
